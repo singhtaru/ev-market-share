@@ -4,7 +4,7 @@ A data-driven analysis of alternative fuel vehicle (EV, PHEV, HEV, biodiesel, et
 
 **Tech stack:** MySQL Workbench (data cleaning + analysis) → Tableau Public (visualization + dashboard)
 
-**Live dashboard:** [Add your published Tableau Public link here]
+**Live dashboard:** https://public.tableau.com/views/EVmarketshare/EVMarketShareInfrastructurePriorityDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![Full Dashboard](images/dashboard.png)
 
