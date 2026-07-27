@@ -137,22 +137,3 @@ Based on the data, we recommend prioritizing EV infrastructure investment in the
 
 ---
 
-## 7. Repository Contents
-
-```
-├── README.md                      # This file
-├── data/
-│   └── vehicle_data_raw.csv       # Original source data
-├── sql/
-│   └── analysis_queries.sql       # Cleaning + market share + significance queries
-└── dashboard/
-    └── (Tableau Public link above)
-```
-
----
-
-## 8. Methodology Notes / Caveats
-
-- All figures are derived from state-reported registration counts rounded to the nearest 100; small-fuel-category zeroes should be read as "below ~50 vehicles," not confirmed zero.
-- District of Columbia is included in state-level rankings for completeness but is not a state and represents a dense urban jurisdiction not directly comparable to state-level infrastructure planning.
-- Percentages are calculated against total registered vehicles across all 11 non-Methanol fuel categories per state.
