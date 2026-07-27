@@ -4,7 +4,7 @@ A data-driven analysis of alternative fuel vehicle (EV, PHEV, HEV, biodiesel, et
 
 **Tech stack:** MySQL Workbench (data cleaning + analysis) → Tableau Public (visualization + dashboard)
 
-**Live dashboard:** [Add your published Tableau Public link here]
+**Live dashboard:** https://public.tableau.com/views/EVmarketshare/EVMarketShareInfrastructurePriorityDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![Full Dashboard](images/dashboard.png)
 
@@ -136,4 +136,3 @@ Based on the data, we recommend prioritizing EV infrastructure investment in the
 **Why not the current leaders (California, Hawaii, DC)?** These states already show high adoption relative to fleet size, indicating existing infrastructure and policy support are functioning. The larger opportunity — measured in absolute vehicles affected — lies in closing the gap in large, currently underserved states rather than reinforcing states that are already ahead.
 
 ---
-
