@@ -1,0 +1,8 @@
+# Tableau temp/autosave files
+~*.twbr
+*.twbr
+.Tableau*
+
+# OS files
+.DS_Store
+Thumbs.db
